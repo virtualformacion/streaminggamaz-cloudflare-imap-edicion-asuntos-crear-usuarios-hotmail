@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "mailboxes": [
+    {
+      "id": "efe6d6a5-8cab-47e1-bd89-ff3b6700f1ef",
+      "email": "mgimenez199330@gmail.com",
+      "name": "principal",
+      "folder": "",
+      "active": 1,
+      "password_encrypted": "{\"v\":1,\"iv\":\"iHjrHblQ3wIBN0Vv\",\"data\":\"+FT2eAC0j5dj/yMQm06u+rZZgvl9CPr4ZMHSWg9CrMk=\"}",
+      "created_at": "2026-11-23T21:06:39.984Z",
+      "updated_at": "2026-11-23T21:06:39.984Z"
+    }
+  ]
+}
