@@ -10,6 +10,22 @@
       "password_encrypted": "{\"v\":1,\"iv\":\"iHjrHblQ3wIBN0Vv\",\"data\":\"+FT2eAC0j5dj/yMQm06u+rZZgvl9CPr4ZMHSWg9CrMk=\"}",
       "created_at": "2026-11-23T21:06:39.984Z",
       "updated_at": "2026-11-23T21:06:39.984Z"
+    },
+    {
+      "id": "83fc48b9-4537-4f16-b843-540ba57af919",
+      "provider": "microsoft",
+      "host": "outlook.office365.com",
+      "port": 993,
+      "security": "tls",
+      "username": "reto53@hotmail.com",
+      "auth": "oauth2",
+      "email": "reto53@hotmail.com",
+      "name": "hotmail",
+      "folder": "",
+      "active": 1,
+      "oauth_encrypted": "{\"v\":1,\"iv\":\"Qd6N7euBm4N1bS0N\",\"data\":\"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\"}",
+      "created_at": "2026-11-24T16:06:13.321Z",
+      "updated_at": "2026-11-24T16:06:13.321Z"
     }
   ]
 }
