@@ -37,11 +37,11 @@
       "auth": "password",
       "email": "andresperes@zohomail.com",
       "name": "zoho",
-      "folder": "",
+      "folder": "Newsletter",
       "active": 1,
       "password_encrypted": "{\"v\":1,\"iv\":\"4d6L44v7Dzg/qBdw\",\"data\":\"aHsAnEbyg/B/DDANcpqhHtn9jROJUmEWUfmp\"}",
       "created_at": "2026-11-26T16:24:02.350Z",
-      "updated_at": "2026-11-26T16:24:02.350Z"
+      "updated_at": "2026-11-26T16:25:17.426Z"
     }
   ]
 }
